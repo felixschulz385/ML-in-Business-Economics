@@ -1,0 +1,15 @@
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n362
+Job ID: 21959725
+Cluster: uc2
+User/Group: tu_zxobe27/tu_tu
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 04:06:24
+CPU Efficiency: 6.50% of 2-15:09:20 core-walltime
+Job Wall-clock time: 03:56:50
+Memory Utilized: 7.90 GB
+Memory Efficiency: 12.64% of 62.50 GB
